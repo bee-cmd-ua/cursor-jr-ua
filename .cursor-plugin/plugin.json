@@ -1,0 +1,21 @@
+{
+  "name": "cursor-jr",
+  "displayName": "CursorJr",
+  "description": "Україномовний наставник Cursor для новачків (не розробників): режими, rules, skills, MCP, автоматизація.",
+  "version": "0.4.0",
+  "keywords": [
+    "cursor",
+    "beginner",
+    "onboarding",
+    "ukrainian",
+    "subagents",
+    "help"
+  ],
+  "author": {
+    "name": "CursorJr"
+  },
+  "rules": "./rules/",
+  "skills": "./skills/",
+  "agents": "./agents/",
+  "commands": "./commands/"
+}

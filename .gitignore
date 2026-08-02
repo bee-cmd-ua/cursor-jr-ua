@@ -1,0 +1,22 @@
+# Local Cursor mirrors
+.cursor/
+
+# Raw synced documentation copies are local maintainer artifacts.
+knowledge-base/raw/
+knowledge-base/drafts/
+
+# Generated local reports may contain machine paths.
+knowledge-base/HEALTH-REPORT.md
+knowledge-base/COVERAGE-REPORT.md
+knowledge-base/SYNC-REPORT.md
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
+# Secrets
+.env
+.env.*
+*.local
