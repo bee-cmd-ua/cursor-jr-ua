@@ -82,7 +82,7 @@ flowchart TD
 Скопіюйте команду в PowerShell із папки, куди хочете завантажити CursorJr:
 
 ```powershell
-git clone https://github.com/Horosheff/cursor-jr.git; cd cursor-jr; .\scripts\install-plugin.ps1
+git clone https://github.com/bee-cmd-ua/cursor-jr-ua.git; cd cursor-jr; .\scripts\install-plugin.ps1
 ```
 
 Після встановлення перезапустіть Cursor.
@@ -92,8 +92,8 @@ git clone https://github.com/Horosheff/cursor-jr.git; cd cursor-jr; .\scripts\in
 Склонуйте репозиторій і запустіть встановлення:
 
 ```powershell
-git clone https://github.com/Horosheff/cursor-jr.git
-cd cursor-jr
+git clone https://github.com/bee-cmd-ua/cursor-jr-ua.git
+cd cursor-jr-ua
 .\scripts\install-plugin.ps1
 ```
 
@@ -181,7 +181,7 @@ CursorJr допомагає звичайному користувачу зроз
 
 ## Неофіційний проєкт
 
-CursorJr не афілійований з Cursor Inc. Це відкритий україномовний помічник для навчання та впровадження Cursor. Оригінальний проєкт: [Horosheff/cursor-jr](https://github.com/Horosheff/cursor-jr).
+CursorJr не афілійований з Cursor Inc. Це відкритий україномовний помічник для навчання та впровадження Cursor. (https://github.com/bee-cmd-ua/cursor-jr-ua).
 
 ## Ліцензія
 
